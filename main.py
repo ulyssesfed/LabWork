@@ -1,7 +1,7 @@
 print("Which lab would you like to run?")
-lab_number = input()  # Remove the unnecessary int() conversion
+lab_number = input()
 
-# Build the filename based on the user's input
+
 filename = f"Lab{lab_number}.py"
 
 try:
