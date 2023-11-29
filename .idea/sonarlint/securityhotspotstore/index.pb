@@ -127,3 +127,11 @@ Q.idea/sonarlint/securityhotspotstore/f/4/f48da5d5a2ca6fb6074d741699a6711dcea75e
 Q.idea/sonarlint/securityhotspotstore/3/b/3b7e3833ab2df03289a69fde1cd59d339cd30c94,7\7\77c2f867393c30dfb3629145f2f7e00cda207dca
 7
 Lab4.py,f\6\f6c1581745735f5c5fc5cf411c18cb418ee0638e
+7
+Lab5.py,4\6\468b7ecab6b742c25cc967e78577b20aab344022
+7
+Lab6.py,c\a\ca3a440072302b8a9e5464d6565e3394167beec3
+7
+Lab7.py,8\a\8a877276a1e9256cd6ff5a574322c84e911ae3b4
+7
+Lab8.py,1\6\16dae512277e2c9589de8c5423369e78ea251a9d
